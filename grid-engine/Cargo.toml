@@ -4,5 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-winit = "0.30.9"
-pixels = "0.15"
+minifb = "0.21"
